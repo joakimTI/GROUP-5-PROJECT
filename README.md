@@ -50,7 +50,7 @@ For our analysis, we picked relevant columns from each dataset to come up with a
        - Splitting and pre-processing the Data
 
 #### Modelling and Evaluation : 
-       - Created multiple models including Logistic Regression, Decision Trees Classifier, Random Forest
+       - Created multiple models including Logistic Regression, Decision Trees Classifier, Random Forest and XGBoost
 
        - Performed feature importance to the model to extract the key contributory factors
 
