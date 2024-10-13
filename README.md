@@ -65,7 +65,7 @@ For our analysis, we picked relevant columns from each dataset to come up with a
 
 ## Repository Guide
 #### Notebook
-The final notebook can be found in: []
+The final notebook can be found [here](https://github.com/joakimTI/GROUP-5-PROJECT/blob/main/index.ipynb)
 
 #### Presentation
 Presentation can be found from here in .pdf format : []
