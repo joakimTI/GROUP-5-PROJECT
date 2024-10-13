@@ -29,7 +29,30 @@ For our analysis, we picked relevant columns from each dataset to come up with a
 5. Modelling and Evaluation
 6. Conclusion
 
+#### Data Understanding : 
+      - Exploring the raw data set and understanding the values of each column
 
+#### EDA : 
+      - Understanding the null values and evaluating the best steps to take to eliminate them
+
+      - Replacing null values with meaningful data 
+      
+      - Removing irrelevant and redundant columns
+
+#### Data Analysis : 
+      - Creating visualizations to better understand the data
+
+      - Deriving statistics from the data
+
+#### Data Preparation for Modelling : 
+       - Engineering New Columns
+
+       - Splitting and pre-processing the Data
+
+#### Modelling and Evaluation : 
+       - Created multiple models including Logistic Regression, Decision Trees Classifier, Random Forest
+
+       - Performed feature importance to the model to extract the key contributory factors
 
 
 
@@ -49,17 +72,17 @@ Presentation can be found from here in .pdf format : []
 
 
 ## Team Members
-Joakim Tipape : https://github.com/joakimTI
+[Joakim Tipape](https://github.com/joakimTI)
 
-Brian Ouko : https://github.com/WellBrian
+[Brian Ouko](https://github.com/WellBrian)
 
-Hanan Dayah : https://github.com/Hanan-Dayah
+[Hanan Dayah](https://github.com/Hanan-Dayah)
 
-Dorothy Chomba : https://github.com/Messagefordorothy
+[Dorothy Chomba](https://github.com/Messagefordorothy)
 
-Alex Kaswii : https://github.com/Alexkaswii
+[Alex Kaswii](https://github.com/Alexkaswii)
 
-Zenah Biwott : https://github.com/Biwott54
+[Zenah Biwott](https://github.com/Biwott54)
 
 
 
