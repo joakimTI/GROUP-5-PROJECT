@@ -12,7 +12,7 @@ Our primary objectives are to:
 
 
 ## Data
-The Crash data shows information about each traffic crash on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD). It can be found here https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data and contains 48 columns with over 880K rows. 
+The Crash data shows information about each traffic crash on city streets within the City of Chicago limits and under the jurisdiction of Chicago Police Department (CPD). It can be found in [Crashes](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data) and contains 48 columns with over 880K rows. 
 
 Vehicles dataset in https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3/about_data contains information about vehicles (or units as they are identified in crash reports) involved in a traffic crash. “Vehicle” information includes motor vehicle and non-motor vehicle modes of transportation, such as bicycles and pedestrians. This dataset has 71 columns with over 1.8M rows.
 
@@ -59,4 +59,7 @@ Dorothy Chomba : https://github.com/Messagefordorothy
 Alex Kaswii : https://github.com/Alexkaswii
 
 Zenah Biwott : https://github.com/Biwott54
+
+
+mple, [Crashes dataset](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if) wil
 
