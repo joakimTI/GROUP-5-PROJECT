@@ -58,8 +58,13 @@ For our analysis, we picked relevant columns from each dataset to come up with a
 
 
 ## Findings
+ 1. Logistic Regression has an accuracy score of 76%
+ 2. Decision Tree has an accuracy score of 70%
+ 3. Tuned Decision Tree has an accuracy score of 80%
+ 4. Random Forest Classifier has an accuracy score of 76%
+ 5. XGBoost has an accuracy score of 79%
 
-
+Main features are : Driver Action, Secondary contributary cause(Environmental, Driver Action) and Driver Vision(Obstruction)
 
 
 
@@ -68,7 +73,7 @@ For our analysis, we picked relevant columns from each dataset to come up with a
 The final notebook can be found [here](https://github.com/joakimTI/GROUP-5-PROJECT/blob/main/index.ipynb)
 
 #### Presentation
-Presentation can be found from here in .pdf format : []
+Presentation can be found from here in .pdf format [presentation](https://github.com/joakimTI/GROUP-5-PROJECT/blob/main/Presentation.pdf)
 
 
 ## Team Members
