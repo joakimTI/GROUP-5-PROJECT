@@ -1,6 +1,6 @@
-<p align="center">This is centered text</p> # PREDICTING PRIMARY CONTRIBUTORY CAUSES OF CRASHES IN CHICAGO
-![cars](https://github.com/user-attachments/assets/e288361c-7ced-4d8d-b649-4471d2da5027)
+### PREDICTING PRIMARY CONTRIBUTORY CAUSES OF CRASHES IN CHICAGO</p> 
 
+![cars](https://github.com/user-attachments/assets/e288361c-7ced-4d8d-b649-4471d2da5027)</p>
 ## Problem Statement
 Traffic safety is paramount in big cities because of its significant impact on human lives and city resources. This project leverages data science techniques to analyze and predict vehicle crashes in Chicago using the city of Chicago, Driver & Passenger, and Vehicles datasets. By understanding the major factors contributing to accidents, we can develop a predictive model to identify the likelihood of crashes in Chicago. The model aims to provide insight into the factors contributing to crashes to enable authorities to take proactive measures to mitigate the occurence of accidents and improve road safety.
 
